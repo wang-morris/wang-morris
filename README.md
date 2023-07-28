@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### About Me
+
+I'm Morris, a software developer student!
+
+
+- 💻 Stack: React, JavaScript, Express, Node.js, HTML5, CSS3
+- 🛠 Tools: Bootstrap, npm, PostgreSQL, Babel, Webpack, VS App Center, Figma, Git, Github, Slack
+
 <!--
 **wang-morris/wang-morris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
