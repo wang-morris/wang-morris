@@ -1,12 +1,15 @@
-### Hi there 👋
-
-### About Me
+###👋 About Me
 
 I'm Morris, a software developer student!
 
+These are my skills...
+💻 Stack: React, JavaScript, Express, Node.js, HTML5, CSS3
+🛠 Tools: Bootstrap, npm, PostgreSQL, Babel, Webpack, VS App Center, Figma, Git, Github, Slack
 
-- 💻 Stack: React, JavaScript, Express, Node.js, HTML5, CSS3
-- 🛠 Tools: Bootstrap, npm, PostgreSQL, Babel, Webpack, VS App Center, Figma, Git, Github, Slack
+Leveraging this skill set, I aspire to create software that delivers life-changing solutions.
+
+Outside of programming...
+I cut hair as an creative outlet!
 
 <!--
 **wang-morris/wang-morris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
