@@ -3,8 +3,8 @@
 I'm Morris, a software developer student!
 
 These are my skills...
-💻 Stack: React, JavaScript, Express, Node.js, HTML5, CSS3
-🛠 Tools: Bootstrap, npm, PostgreSQL, Babel, Webpack, VS App Center, Figma, Git, Github, Slack
+- 💻 Stack: React, JavaScript, Express, Node.js, HTML5, CSS3
+- 🛠 Tools: Bootstrap, npm, PostgreSQL, Babel, Webpack, VS App Center, Figma, Git, Github, Slack
 
 Leveraging this skill set, I aspire to create software that delivers life-changing solutions.
 
