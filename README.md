@@ -12,7 +12,7 @@ Outside of programming...
 I enjoy honing my skills as an amateur barber and hairstylist!
 
 ### 📫 How to Reach Me:
-[LinkedIn](https://www.linkedin.com/in/wang-morris/)
+[email:](morris1214@gmail.com)
 
 <!--
 **wang-morris/wang-morris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
