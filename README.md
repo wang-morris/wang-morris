@@ -8,9 +8,6 @@ These are my skills:
 
 Leveraging this skill set, I aspire to create software that delivers life-changing solutions.
 
-Outside of programming...
-I enjoy honing my skills as an amateur barber and hairstylist!
-
 
 <!--
 **wang-morris/wang-morris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
