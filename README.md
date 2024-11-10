@@ -4,7 +4,7 @@ I'm Morris, a software developer with a background in both technical and custome
 
 These are my skills:
 - 💻 Stack: React, JavaScript, Express, Node.js, PostgreSQL, HTML5, CSS3
-- 🛠 Tools: Bootstrap, npm, Babel, Webpack, VS App Center, Figma, Git, Github, Slack, Microsoft 365
+- 🛠 Tools: Bootstrap, npm, Babel, Webpack, VS App Center, Figma, Git
 
 Leveraging this skill set, I aspire to create software that delivers life-changing solutions.
 
