@@ -1,10 +1,10 @@
 ### 👋 About Me
 
-I'm Morris, a software developer with a background in both technical and customer support. 
+I'm Morris, a software developer with a background in application support. 
 
 These are my skills:
-- 💻 Stack: React, JavaScript, Express, Node.js, PostgreSQL, HTML5, CSS3
-- 🛠 Tools: Bootstrap, npm, Babel, Webpack, VS App Center, Figma, Git
+- 💻 Stack: React, JavaScript, Express, Node.js, PostgreSQL, HTML, CSS
+- 🛠 Tools: Bootstrap, npm, Babel, Webpack, VS App Center, AppDynamics, Figma, Git
 
 Leveraging this skill set, I aspire to create software that delivers life-changing solutions.
 
