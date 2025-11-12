@@ -1,4 +1,12 @@
-## Hi there 👋
+### 👋 About Me
+
+I'm Morris, a technical support specialist with a background in mobile and web application troubleshooting for healthcare SaaS platforms.
+
+These are my skills:
+- 💻 Stack: React, JavaScript, Express, Node.js, PostgreSQL, HTML, CSS
+- 🛠 Tools: Bootstrap, npm, Babel, Webpack, VS App Center, Figma, Git, AppDynamics, Redox, Chrome Dev Tools
+
+Leveraging this skill set, I strive to deliver impactful software solutions.
 
 <!--
 **wang-morris/wang-morris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
